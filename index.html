@@ -113,7 +113,39 @@
 
     <footer>
         <p>&copy; 2026 Kadi Game. All rights reserved.</p>
-        <p><a href="https://github.com/yourname/kadi-app-download">Contribute on GitHub</a></p>
+        <p><a href="https://github.com/Geffkimani/kadi-app-download">Contribute on GitHub</a></p>
     </footer>
+
+    <!-- Developer Info Card -->
+    <div class="dev-card-container" id="devCard">
+        <div class="dev-card-inner">
+            <!-- Back of the card (Visible initially) -->
+            <div class="dev-card-back">
+                <div class="card-pattern"></div>
+                <div class="card-logo">K</div>
+            </div>
+            <!-- Front of the card (Developer Info) -->
+            <div class="dev-card-front">
+                <div class="card-corner top">DEV</div>
+                <div class="card-content">
+                    <h4>Geff Kimani</h4>
+                    <p>Lead Developer</p>
+                    <div class="dev-links">
+                        <a href="https://github.com/Geffkimani" target="_blank">GitHub</a>
+                        <a href="#" target="_blank">LinkedIn</a>
+                        <a href="#" target="_blank">Portfolio</a>
+                    </div>
+                </div>
+                <div class="card-corner bottom">DEV</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const devCard = document.getElementById('devCard');
+        devCard.addEventListener('click', () => {
+            devCard.classList.toggle('flipped');
+        });
+    </script>
 </body>
 </html>
