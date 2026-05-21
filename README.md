@@ -3,7 +3,7 @@
 Welcome to the official download repository for **Kadi**.
 
 ## 🌐 Landing Page
-Visit the landing page at: [https://Geffkimani.github.io/kadi-app-download/](https://yourusername.github.io/kadi-app-download/)
+Visit the landing page at: [https://Geffkimani.github.io/kadi-app-download/](https://geffkimani.github.io/kadi-app-download/)
 
 ## 📥 Downloads
 You can find the latest APK releases here:
