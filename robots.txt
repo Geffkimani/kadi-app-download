@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geffkimani.github.io/kadi-app-download//sitemap.xml
