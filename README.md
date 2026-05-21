@@ -20,4 +20,4 @@ Kadi is a popular Kenyan card game, often referred to as the "Royal Card Game". 
    *Make sure your APK file is named `kadi.apk` when uploading to the release, or update the link in `index.html`.*
 
 ---
-&copy; 2024 Kadi Game Team
+&copy; 2026 Kadi Game Team
