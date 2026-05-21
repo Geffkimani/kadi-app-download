@@ -1,4 +1,4 @@
-# Kadi - The Royal Card Game
+# Kadi - The Kenyan Poker Card Game
 
 Welcome to the official download repository for **Kadi**.
 
