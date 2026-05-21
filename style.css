@@ -593,7 +593,26 @@ footer a {
 
 @media (max-width: 600px) {
     .dev-card-container.flipped {
-        width: 180px;
-        height: 280px;
+        width: 220px;
+        height: 320px;
+        bottom: 50%;
+        right: 50%;
+        transform: translate(50%, 50%);
+    }
+
+    .dev-card-container:not(.flipped) {
+        width: 70px;
+        height: 105px;
+        bottom: 20px;
+        right: 20px;
+    }
+
+    .dev-card-front h4 {
+        font-size: 1.2rem;
+    }
+
+    .dev-links a {
+        padding: 0.5rem;
+        font-size: 0.8rem;
     }
 }
